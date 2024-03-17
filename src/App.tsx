@@ -5,7 +5,7 @@ function App() {
     <>
     
       <header > 
-      Redux Project 
+      Redux Project  2
        </header> 
       <Homework29/>
     </>
